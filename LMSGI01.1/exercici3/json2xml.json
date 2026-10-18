@@ -1,0 +1,45 @@
+{
+  "tornei": {
+    "nom": "Lliga Local de Pàdel 2025",
+    "temporada": 2025,
+    "equips": [
+      {
+        "id": 10,
+        "nom": "Raquetes Blaves",
+        "jugadors": [
+          {
+            "dorsal": 1,
+            "nom": "Carles Vidal",
+            "categoria": "A"
+          },
+          {
+            "dorsal": 2,
+            "nom": "Marta Puig",
+            "categoria": "B"
+          }
+        ]
+      },
+      {
+        "id": 11,
+        "nom": "Smash FC",
+        "jugadors": [
+          {
+            "dorsal": 1,
+            "nom": "Jordi Roca",
+            "categoria": "A"
+          },
+          {
+            "dorsal": 2,
+            "nom": "Laia Solà",
+            "categoria": "A"
+          },
+          {
+            "dorsal": 3,
+            "nom": "Pere Mas",
+            "categoria": "B"
+          }
+        ]
+      }
+    ]
+  }
+}

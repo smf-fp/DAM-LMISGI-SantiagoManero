@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<inventory updated="2025-05-01">
+    <plant id="PLT-01" stock="disponible">
+        <name>Monstera deliciosa</name>
+        <type>Interior</type>
+        <price currency="EUR">24.99</price>
+        <watering>2 cops per setmana</watering>
+    </plant>
+
+    <plant id="PLT-02" stock="disponible">
+        <name>Roser miniatura</name>
+        <type>Exterior</type>
+        <price currency="EUR">12.50</price>
+        <watering>3 cops per setmana</watering>
+    </plant>
+
+    <plant id="PLT-03" stock="sota comanda">
+        <name>Cactus saguaro</name>
+        <type>Interior</type>
+        <price currency="EUR">8.75</price>
+        <watering>1 cop per setmana</watering>
+    </plant>
+</inventory>

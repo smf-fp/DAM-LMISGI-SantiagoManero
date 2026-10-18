@@ -1,0 +1,49 @@
+{
+  "surveys": [
+    {
+      "id": 1,
+      "title": "Satisfacció del servei",
+      "active": true,
+      "questions": [
+        {
+          "order": 1,
+          "text": "Com valores l'atenció rebuda?",
+          "type": "opcio_multiple",
+          "options": [
+            "Molt bona",
+            "Bona",
+            "Regular",
+            "Dolenta"
+          ]
+        },
+        {
+          "order": 2,
+          "text": "Què milloraries del servei?",
+          "type": "text_lliure"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Preferències de compra",
+      "active": false,
+      "questions": [
+        {
+          "order": 1,
+          "text": "Quin mètode de compra prefereixes?",
+          "type": "opcio_multiple",
+          "options": [
+            "Botiga física",
+            "Botiga en línia",
+            "Aplicació mòbil"
+          ]
+        },
+        {
+          "order": 2,
+          "text": "Quin producte t'agradaria trobar a la botiga?",
+          "type": "text_lliure"
+        }
+      ]
+    }
+  ]
+}

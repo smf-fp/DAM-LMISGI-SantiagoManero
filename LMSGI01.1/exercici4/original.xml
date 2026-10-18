@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<inventari>
+    <planta id="PLT-01">
+        <nom>Monstera deliciosa</nom>
+        <tipus>Interior</tipus>
+        <preu moneda="EUR">24.99</preu>
+    </planta>
+    <planta id="PLT-02">
+        <nom>Roser miniatura</nom>
+        <tipus>Exterior</tipus>
+        <preu moneda="EUR">12.50</preu>
+    </planta>
+</inventari>
